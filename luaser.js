@@ -63,27 +63,27 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:LUA SER OFC\n'
-            + 'ORG:Owner LUA;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=919048417849:+919048417849\n'
+            + 'FN:TOXIC DEVIL\n'
+            + 'ORG:Owner COBRA;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6283196885072:+62 831 9688 5072\n'
             + 'END:VCARD'
        
-const vcard1 = 'BEGIN:VCARD\n'
+/* const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:KEVIN\n'
             + 'ORG:Co Owner LUA;\n'
             + 'TEL;type=CELL;type=VOICE;waid=919895823783:+919895823783\n'
-            + 'END:VCARD'
+            + 'END:VCARD' */
 
 prefix = "!"
-name = "LUA SER"
-rdaftar = "𝙇𝙐𝘼 𝙎𝙀𝙍"
-rmenu = "𝙇𝙐𝘼 𝙎𝙀𝙍"
-botinfo = "𝙇𝙐𝘼 𝙎𝙀𝙍"
+name = "DARK COBRA"
+rdaftar = "𝗗𝗔𝗥𝗞 𝗖𝗢𝗕𝗥𝗔"
+rmenu = "𝗗𝗔𝗥𝗞 𝗖𝗢𝗕𝗥𝗔"
+botinfo = "𝗗𝗔𝗥𝗞 𝗖𝗢𝗕𝗥𝗔"
 limitt = 999999999
 memberLimit = 1
 ban = []
-premium = ["919048417849@s.whatsapp.net","919895823783@s.whatsapp.net"]
+premium = ["6283196885072@s.whatsapp.net","919544707896@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
